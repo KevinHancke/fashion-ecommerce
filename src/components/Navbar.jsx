@@ -6,7 +6,7 @@ import styled from 'styled-components'
 
 const Container = styled.div `
     height: 100px;
-    background-color: white;
+    background-color: #EEE3CB;
 `
 
 const Wrapper = styled.div `
@@ -14,6 +14,7 @@ const Wrapper = styled.div `
     display:flex;
     justify-content: space-between;
     align-items: center;
+    margin: auto;
 `
 const Left = styled.div `
     flex: 1;
