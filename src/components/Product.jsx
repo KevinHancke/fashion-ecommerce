@@ -8,13 +8,13 @@ const Info = styled.div`
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #3c373733;
+    background-color: #88808033;
     z-index: 3;
     align-items: center;
     display: flex;
     justify-content: center;
-    transition: all 0.5sec ease;
-
+    transition: all 0.5s ease;
+    cursor: pointer;
 `
 
 const Container = styled.div`

@@ -17,7 +17,7 @@ export const sliderItems =[
         img: SliderImg,
         title: "Spring Sale",
         desc: "DONT MISS THIS AMAZING SPRING OPENING PROMO! GET 30% OFF OUR NEW ARRIVALS.",
-        bg: "#CDF0EA"
+        bg: "#D6EFED"
     },
 
     {
@@ -33,7 +33,7 @@ export const sliderItems =[
         img: SliderImg,
         title: "Promo Sale",
         desc: "DONT MISS THIS AMAZING SPRING OPENING PROMO! GET 30% OFF OUR NEW ARRIVALS.",
-        bg: "#FAF4B7"
+        bg: "#898AA6"
     },
 ]
 
@@ -43,7 +43,7 @@ export const categories =[
         img: CatImg1,
         title: "Spring Sale",
         desc: "DONT MISS THIS AMAZING SPRING OPENING PROMO! GET 30% OFF OUR NEW ARRIVALS.",
-        bg: "#CDF0EA"
+        bg: "#C9BBCF"
     },
 
     {
@@ -51,7 +51,7 @@ export const categories =[
         img: CatImg2,
         title: "Winter Sale",
         desc: "DONT MISS THIS AMAZING SPRING OPENING PROMO! GET 30% OFF OUR NEW ARRIVALS.",
-        bg: "#ECC5FB"
+        bg: "#B7D3DF"
     },
 
     {
@@ -59,7 +59,7 @@ export const categories =[
         img: CatImg3,
         title: "Promo Sale",
         desc: "DONT MISS THIS AMAZING SPRING OPENING PROMO! GET 30% OFF OUR NEW ARRIVALS.",
-        bg: "#FAF4B7"
+        bg: "#C9BBCF"
     },
 ]
 
